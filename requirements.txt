@@ -1,0 +1,6 @@
+faust-streaming
+confluent-kafka
+pandas
+scikit-learn
+joblib
+numpy
